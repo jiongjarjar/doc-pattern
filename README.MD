@@ -1,1 +1,1 @@
-[Preview](https://www.baidu.com)
+[Preview](https://jiongjarjar.github.io/doc-pattern)
